@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Vein10
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Html, CSS
+- 👋 Hi, I’m Shiven
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on webpage designing/development
 - 📫 How to reach me ss.shiven44@gmail.com
 
