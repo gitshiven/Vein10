@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shiven
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on webpage designing/development
+- 🌱 Learner
 - 📫 How to reach me ss.shiven44@gmail.com
 
 <!---
