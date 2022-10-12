@@ -4,8 +4,33 @@
     <title>TIcTacTOeBySHiven</title>
     <link rel="stylesheet" href="style.css">
     <script src="script.js" defer></script>
+    <style>
+        div{
+            width: 20px;
+  height: 20px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: 100;
+  animation-direction: alternate;  
+        }
+        @keyframes example {
+  0%   { left:0px; top:0px;}
+  25%  { left:200px; top:0px;}
+  50%  { left:200px; top:200px;}
+  75%  { left:0px; top:200px;}
+  100% {left:0px; top:0px;}
+}  
+    </style>
 </head>
 <body>
+    <div>
+    <h1 style="color: black;">Loser owes you a Subway</h1>
+    <h2 style="color: black;">Loser owes you a Subway</h2>
+    <h3 style="color: black;">Loser owes you a Subway</h3>
+    <h4 style="color: black;">Loser owes you a Subway</h4>
+    <h5 style="color: black;">Loser owes you a Subway</h5>
+    </div>
     <div class="board x" id="board">
         <div class="cell x" data-cell> </div>
         <div class="cell circle" data-cell></div>
