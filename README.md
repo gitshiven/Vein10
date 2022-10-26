@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Shiven
-- 🌱 Learner
+-  Hi, I’m Shiven Singh
 - 📫 How to reach me ss.shiven44@gmail.com
 
 <!---
